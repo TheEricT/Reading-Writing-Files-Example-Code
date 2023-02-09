@@ -1,4 +1,4 @@
-# My example code for work placement at Red River - ERIC TYERMAN
+# My example code for work placement - ERIC TYERMAN
 # This program will write random letters to a file, amount specified by the user.
 # It will then take a 3 letter input from the user and tell if the user's combination has appeared in the array
 
